@@ -1,0 +1,41 @@
+
+/* -----CLASS SELECTORS----- */
+
+.answer
+{
+
+}
+
+.center
+{
+  margin: 10px auto 10px;
+  display: block;
+}
+
+.circle
+{
+  border: 5px solid #FFD700;
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+}
+
+.circle-text
+{
+  line-height: 86px;
+}
+
+.center-txt
+{
+  text-align: center;
+}
+
+.hidden
+{
+  display: none;
+}
+
+.question-frame
+{
+  margin: 5vh 0;
+}
